@@ -18,7 +18,7 @@ Repository for DigitalOcean CloudTitans Hackathon participants
 
 NOTE: Although I prefer Python or Julia personally but not mandatory. You are free to use your choice of programming language and associated libraries as long as it is supported and deployed on DigitalOcean platform. You are free to add your innovation to the solution and it is better to have edge over others. When you are developing a solution have a mindset of developing it like a product complete in all sense and professional look and feel. Upload code and screenshot in your respective folders.
 
-If you have questions please write in comments.
+If you have questions please create an issue.
 
 
 
