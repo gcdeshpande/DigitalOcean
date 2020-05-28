@@ -3,7 +3,7 @@
    
    --> Drop all the rows having NULL/NaN value in abstract colunm.
    
-   --> Reset the file indexes.
+   --> Reset the file indices.
    
    The above steps reduces the data and makes the dataset homogenous.
    
