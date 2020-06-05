@@ -1,4 +1,4 @@
-## * Cleaning the dataset
+### * Cleaning the dataset
       
    
    --> Drop all the rows having NULL/NaN value in abstract colunm.
@@ -9,18 +9,12 @@
    
 
 
-## * Writing the summary using TextRank Algorithm and Cosine Similarity
+### * Writing the summary using TextRank Algorithm and Cosine Similarity
+    --> TextRank Algorithm and Cosine Similarity is used to draw summary 
+        of the abstracts of the research papers.
+  
     
 
 
 
 
-
-
-## * Visual Representation of keywords
-
-
-
-
-
-## * Question-Answer 
