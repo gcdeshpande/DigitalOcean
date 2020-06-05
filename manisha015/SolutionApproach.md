@@ -1,11 +1,9 @@
 ### * Cleaning the dataset
-      
+    --> Drop all the rows having NULL/NaN value in abstract colunm.
    
-   --> Drop all the rows having NULL/NaN value in abstract colunm.
+    --> Reset the file indices.
    
-   --> Reset the file indices.
-   
-   The above steps reduces the data and makes the dataset homogenous.
+    The above steps reduces the data and makes the dataset homogenous.
    
 
 
